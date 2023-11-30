@@ -2,14 +2,14 @@
 A calculator performs arithmetic and bitwise operations
 Calculator Project
 
-##Components:
+## Components:
 
 Atmega32 microcontroller.
 16x2 LCD display.
 Keypad.
 Buttons.
 
-###Features:
+### Features:
 
 Perform arithmetic and bitwise operations on two numbers, each with any number of digits.
 Handle signed numbers and floating-point numbers.
