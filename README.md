@@ -9,7 +9,7 @@ Atmega32 microcontroller.
 Keypad.
 Buttons.
 
-### Features:
+## Features:
 
 Perform arithmetic and bitwise operations on two numbers, each with any number of digits.
 Handle signed numbers and floating-point numbers.
